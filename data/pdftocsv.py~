@@ -1,0 +1,11 @@
+import tabula
+
+from tabula import read_pdf     
+df = read_pdf("WB/Vacant_bed_status_as_on_26.04_.21_.pdf")
+
+
+df = tabula.read_pdf("WB/Vacant_bed_status_as_on_26.04_.21_.pdf", encoding='utf-8', spreadsheet=True, pages='all')
+df.to_csv('crimestory.csv', encoding='utf-8')
+
+print(df[0])
+
