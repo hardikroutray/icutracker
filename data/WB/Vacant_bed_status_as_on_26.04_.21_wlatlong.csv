@@ -1,5 +1,5 @@
-,Sr_No,District,Hospital_Name,Total_beds,Vacant_beds,lat,long
-5,4,State level,AMRI Salt Lake,25,0,22.56833,88.4116612252585
-6,5,State level,"Desun Hospital, Kolkata",25,19,22.5145785,88.4032621200919
-13,12,State level,Shambhunath Pandit Hospital,90,2,22.538665,88.3481459
-57,56,Paschim Medinipur,Midnapore Medical College Hospital,30,10,22.420587,87.3214003157147
+Sr_No,District,Hospital_Name,Total_beds,Vacant_beds,lat,long
+4,State level,AMRI Salt Lake,25,0,22.56833,88.4116612252585
+5,State level,"Desun Hospital, Kolkata",25,19,22.5145785,88.4032621200919
+12,State level,Shambhunath Pandit Hospital,90,2,22.538665,88.3481459
+56,Paschim Medinipur,Midnapore Medical College Hospital,30,10,22.420587,87.3214003157147
