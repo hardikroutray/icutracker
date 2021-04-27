@@ -1,3 +1,2 @@
 voila
 voila-material
-bedtracker_voila
