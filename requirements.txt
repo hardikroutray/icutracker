@@ -1,4 +1,4 @@
 voila
 voila-material
 ipywidgets
-ipython==7.17.0
+ipython==7.16.1
