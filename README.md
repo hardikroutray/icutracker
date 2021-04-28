@@ -13,6 +13,6 @@ This the github repo for the application [icubedtracker](https://icubedtracker.h
 ![HOSPITAL BED INFO](https://github.com/hardikroutray/icutracker/blob/main/images/hospitaldata.png)
 
 
-####HOSPITAL LOCATION
+#### HOSPITAL LOCATION
 
 ![HOSPITAL BED INFO](https://github.com/hardikroutray/icutracker/blob/main/images/hospitalonmap.png)
