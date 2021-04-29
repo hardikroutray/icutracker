@@ -1,5 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hardikroutray/icutracker/HEAD)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://icubedtracker.herokuapp.com)
 
 
 
