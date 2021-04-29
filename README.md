@@ -15,6 +15,8 @@ This the github repo for the application [icubedtracker](https://icubedtracker.h
 
 #### HOSPITAL DATA
 
+This shows the vacant beds in hospitals in selected state and district.  
+
 ![HOSPITAL BED INFO](https://github.com/hardikroutray/icutracker/blob/main/images/hospitaldata.png)
 
 
