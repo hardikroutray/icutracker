@@ -4,8 +4,7 @@
 -->
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hardikroutray/icutracker/HEAD)
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][https://github.com/hardikroutray/icutracker/blob/main/LICENSE]
 
 ## HOSPITAL BED TRACKER
 
