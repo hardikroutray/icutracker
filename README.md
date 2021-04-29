@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hardikroutray/icutracker/HEAD)
-[![MIT License][license-shield]][https://github.com/hardikroutray/icutracker/blob/main/LICENSE]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 
 ## HOSPITAL BED TRACKER
 
