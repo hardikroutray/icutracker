@@ -1,4 +1,11 @@
+
+<!-- PROJECT SHIELDS -->
+<!--
+-->
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hardikroutray/icutracker/HEAD)
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 ## HOSPITAL BED TRACKER
 
